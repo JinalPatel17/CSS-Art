@@ -1,6 +1,20 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Astronaut Floating',
+    pageLink: './Art/Oliveren/oliveren.html',
+    imageLink: './Art/Oliveren/astronaut.gif',
+    author: 'Joy',
+    githubLink: 'https://github.com/renjialan'
+  },
+  {
+    artName: 'Road Bicycle',
+    pageLink: './Art/ramon-cortes/index.html',
+    imageLink: './Art/ramon-cortes/css-bicycle.gif',
+    author: 'Ramon Cortes',
+    githubLink: 'https://github.com/ramon-cortes'
+  },
+  {
     artName: 'Hello World!',
     pageLink: './Art/Rabia/index.html',
     imageLink: './Art/Rabia/hello_world.gif',
@@ -15,6 +29,13 @@ let cards = [
       imageLink: './Art/nekimuntu/RadarDragonBalls.gif',
       author: 'Carolyn Nagau aka Nekimuntu',
       githubLink: 'https://github.com/nekimuntu'
+  },
+  {
+      artName: 'Spooky',
+      pageLink: './Art/spooky/index.html',
+      imageLink: './Art/spooky/GHOST.gif',
+      author: 'Mike',
+      githubLink: 'https://github.com/Mednalig'
   },
   {
     artName: 'Loader Animation',
@@ -1109,6 +1130,15 @@ let cards = [
     author: 'erics0n',
     githubLink: 'https://github.com/erics0n'
   },
+  
+  {
+    artName: 'Up and Down',
+    pageLink: './Art/Arun/index.html',
+    imageLink: './Art/Arun/Arun-Lohani.gif',
+    author: 'Arun Lohani',
+    githubLink: 'https://github.com/Socialfew146575'
+  },
+  
   {
     artName: 'Burger Menu',
     pageLink: './Art/mctrl/burger.html',
@@ -3214,13 +3244,49 @@ let cards = [
     imageLink: './Art/radlee-mask/radmask.gif',
     author: 'Radlee',
     githubLink: 'https://github.com/radlee'
-  }
+  },
   {
     artName: 'Yard Pimp',
     pageLink: './Art/John Gonzalez/index.html',
     imageLink: './Art/John Gonzalez/Yard_Pimp.gif',
     author: 'Joy',
     githubLink: 'https://github.com/johngg15'
+  },
+  {
+    artName: 'Awesome Web Animation',
+    pageLink: './Art/awesomeweb/index.html',
+    imageLink: './Art/awesomeweb/aw.png',
+    author: 'Vic',
+    githubLink: 'https://github.com/victoriagullotti'
+  }, 
+   {
+    artName: 'Sesame Ouvre Toi',
+    pageLink: './Art/Aourid/index.html',
+    imageLink: './Art/Aourid/icon.gif',
+    author: 'Sidi M. Aourid',
+    githubLink: 'https://github.com/aourid'
+  },
+  {
+    artName: 'weiwern',
+    pageLink: './Art/weiwern/index.html',
+    imageLink: './Art/weiwern/img.png',
+    author: 'Fixlim',
+    githubLink: 'https://github.com/Fixlim'
+  },
+{
+    artName: 'Meow Animation',
+    pageLink: './Art/Raj/index.html',
+    imageLink: './Art/Raj/Animation.gif',
+    author: 'Rajzamal',
+    githubLink: 'https://github.com/Rajzamal/'
+},
+{
+    artName: 'monisa-animation',
+    pageLink: './Art/monisa-animation/index.html',
+    imageLink: './Art/monisa-animation/animate.gif',
+    author: 'Monisa Mirza',
+    githubLink: 'https://github.com/monisa-mirza'
+
   }
 ];
 
